@@ -1,0 +1,49 @@
+header{
+    background-color:
+    #2B3844;
+   
+}
+.salom{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+header h1{
+    color: aliceblue;
+}
+.zor{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+button{
+    width: 136px;
+    height:40px;
+    background-color: #2B3844;
+    margin-top: 50px;
+    margin-left: 200px;
+}
+main{
+    background-color: #202C36;
+}
+.left {
+  display: flex;
+  color: aliceblue;
+}
+.rot{
+    margin-bottom: 200px;
+}
+ p{
+    margin: 20px;
+}
+.verx{
+  
+}
+.verx button{
+    width: 96px;
+    height:28px;
+}
+.wer{
+    margin-top: 200px;
+}
